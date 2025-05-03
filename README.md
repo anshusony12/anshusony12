@@ -63,6 +63,10 @@ I'm a passionate Full-Stack Developer with over 3 years of experience, specializ
 
 ---
 
+### 📜 **Certifications**:
+- Java Multithreading, Concurrency & Performance Optimization on 05/03/2025 as taught by Michael Pogrebinsky | Software Architecture, System Design, Java Expert, Top Developer Academy LLC on Udemy. [View Certificate](./certificates/java-multithreading-concurrency.pdf)
+---
+
 ### 📫 **Let's Connect**:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshu-sony-0610751a7)
 - [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/anshusony12)
