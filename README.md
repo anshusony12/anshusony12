@@ -64,7 +64,7 @@ I'm a passionate Full-Stack Developer with over 3 years of experience, specializ
 ---
 
 ### 📜 **Certifications**:
-- Java Multithreading, Concurrency & Performance Optimization on 05/03/2025 as taught by Michael Pogrebinsky | Software Architecture, System Design, Java Expert, Top Developer Academy LLC on Udemy. [View Certificate](./certificates/java-multithreading-concurrency.pdf)
+- Java Multithreading, Concurrency & Performance Optimization on 05/03/2025 as taught by Michael Pogrebinsky | Software Architecture, System Design, Java Expert, Top Developer Academy LLC on Udemy. [View Certificate](./java-multithreading-concurrency.pdf)
 ---
 
 ### 📫 **Let's Connect**:
